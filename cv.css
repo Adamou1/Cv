@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.page{
+width: 50%;
+margin: auto;
+font-family: 'source sans-pro, calibri, tohoma, sans-serif';
+font-size: 16px;
+border: 5px solid #2255CC;
+border-radius: 10px;
+box-shadow: 2px 2px 2px black;
+padding: 20px;
+background-color: aquamarine;
+display: block;
+}
+.infophoto{
+    height: 140px;
+    justify-content: space-between;
+}
+.info{
+    float: left;
+}
+
+img{
+ width: 120px; 
+ height: 140px;
+ border-radius: 500px;
+ margin-right: 20px;
+ float: right;
+}
+.gauche1 section{
+    display: flex;
+    margin-top: 10px;
+}
+.gauche1 .section1{
+    margin-left: 200px;
+}
+.section .section2{
+    margin-left: 270px;
+    margin-top: 20px;
+}
+.section h2{
+    margin-top: 40px;
+    margin-left: 270px;
+}
+.section .h{
+    margin-top: 30px;
+}
